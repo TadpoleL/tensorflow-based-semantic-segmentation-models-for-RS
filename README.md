@@ -22,7 +22,7 @@ This repository contains various semantic segmentation models implemented using 
 ### Prerequisites
 
 - TensorFlow 2.14
-- Python 3.x
+- Python 3.9
 - Additional dependencies listed in `requirements.txt`
 
 ### Installation
